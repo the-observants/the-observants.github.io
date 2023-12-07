@@ -4,7 +4,11 @@ body {
     background-color: black;
     font-family: 'Titillium Web', sans-serif;
     color: white;
+    padding-left: 2%;
 }
 .profile-pic {
     width: 12.5%;
+}
+.blog-post {
+    width: 50%;
 }
